@@ -85,14 +85,6 @@
 
 ---
 
-## 🎓 Education
-
-🎓 **B.Tech – Internet of Things (IoT)**  
-Government College of Engineering, Chandrapur  
-📅 2024 – 2028  
-
----
-
 ## 🎯 Current Focus
 
 ✅ IoT system development  
